@@ -8,7 +8,7 @@ AirFrame allows users to autonomously move a drone by following their faces and 
 * OpenCV face detection
 * Proportional, Integral, Derivative (PID) control for drones
 
-# Sample Video
+# Sample Test Video
 
 
 
